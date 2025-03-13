@@ -1,0 +1,12 @@
+/*
+Theme Name:     Assignment 3
+Description:    
+Author:         znoor
+Template:       ecommerce-online-store
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+#content{
+    background-color:aliceblue;
+    font-family:'Courier New', Courier, monospace;
+}

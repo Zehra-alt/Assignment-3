@@ -22,12 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/bicycle/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/bicycle/
+            http://localhost:8000/products/surfboard/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/skateboard/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/rollerblades/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/longboard/
         </loc>
     </url>
     <url>
